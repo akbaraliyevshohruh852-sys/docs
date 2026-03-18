@@ -1,2 +1,7 @@
-aiogram
-requests 
+aiogram>=3.0.0
+asyncpg
+aiosqlite
+pydantic
+python-dotenv
+flask
+nest_asyncio
